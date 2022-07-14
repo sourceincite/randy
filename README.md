@@ -2,7 +2,7 @@
 
 ## What
 
-This is a pre-authenticated RCE exploit for Inductive Automation Ignition that impacts versions <= 8.1.16. We failed to exploit the bugs at Pwn2Own Miami 2022 because we had a sloppy exploit and no debug environment, but since then we have found the time energy to improve it!
+This is a pre-authenticated RCE exploit for Inductive Automation Ignition that impacts versions <= 8.1.16. We failed to exploit the bugs at Pwn2Own Miami 2022 because we had a sloppy exploit and no debug environment, but since then we have found the time and energy to improve it!
 
 ## Authors
 
