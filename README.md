@@ -21,8 +21,9 @@ Chris Anastasio and Steven Seeley (mr_me) of Incite Team
   2. [ScriptInvoke Remote Code Execution](https://srcincite.io/advisories/src-2022-0014/)
 
 - The exploit requires an admin user to be logged into the gateway. During testing it was found that sessions live forever unless a user explicitly logs out.
-- The exploit should be ran from a Windows host (due to the `SecureRandom` seed prediction attack)
-- The exploit was tested with Java v11.0.11
+- The exploit should be ran from a Windows host (due to the `SecureRandom` seed prediction attack).
+- The exploit targets Ignition deployed under Windows, since `SecureRandom` is not so secure under that environment.
+- The exploit was tested with Java v11.0.11.
 
 ## Run
 
