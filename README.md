@@ -14,7 +14,7 @@ Chris Anastasio and Steven Seeley (mr_me) of Incite Team
 
 ## Tested
 
-The exploit was tested against [8.1.16](https://inductiveautomation.com/downloads/archive/8.1.16) which you can [download here](https://files.inductiveautomation.com/release/ia/8.1.16/20220405-1206/ignition-8.1.16-windows-64-installer.exe) but it has known to work against other versions as well.
+The exploit was tested against [8.1.16](https://inductiveautomation.com/downloads/archive/8.1.16) using the Windows 64-bit Installer which you can [download here](https://files.inductiveautomation.com/release/ia/8.1.16/20220405-1206/ignition-8.1.16-windows-64-installer.exe) but it has known to work against other older versions as well.
 
 ## Notes
 
