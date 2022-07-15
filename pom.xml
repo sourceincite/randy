@@ -84,7 +84,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>com.srcincite.ia.randy</mainClass>
+                <mainClass>com.srcincite.ia.exploit</mainClass>
               </manifest>
             </archive>
             <appendAssemblyId>false</appendAssemblyId>
