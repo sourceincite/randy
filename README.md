@@ -22,7 +22,7 @@ The exploit was tested against [8.1.16](https://inductiveautomation.com/download
 - This exploit takes advantage of two vulnerabilities that have been [patched](https://support.inductiveautomation.com/hc/en-us/articles/7625759776653):
 
   - [CVE-2022-35890 - GatewaySessionManagerImpl Authentication Bypass](https://srcincite.io/advisories/src-2022-0013/)
-  - [ScriptInvoke Remote Code Execution](https://srcincite.io/advisories/src-2022-0014/)
+  - [CVE-2022-36126 - ScriptInvoke Remote Code Execution](https://srcincite.io/advisories/src-2022-0014/)
 
 - The exploit requires an admin user to be logged into the gateway. During testing it was found that sessions live forever unless a user explicitly logs out.
 - The exploit should be ran from a Windows host (due to the `SecureRandom` seed prediction attack).
